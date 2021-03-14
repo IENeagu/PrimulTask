@@ -7,6 +7,8 @@ public class Test_PrimulTask {
 
 		System.out.println("Test");
 		System.out.println("Am facut prima schimbare");
+		System.out.println("A doua schimbre pentru un commit");
+		
 	}
 
 }
