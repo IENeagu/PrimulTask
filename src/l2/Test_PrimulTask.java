@@ -10,6 +10,7 @@ public class Test_PrimulTask {
 		System.out.println("A doua schimbare pentru un commit");
 		System.out.println("A cincea  schimbare pentru un commit");
 		System.out.println("remind commit");
+		System.out.println("remind2 commit");
 	}
 
 }
