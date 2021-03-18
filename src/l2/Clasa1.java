@@ -1,10 +1,22 @@
 package l2;
 
-public class Clasa1 {
+public class Clasa1 { 
+	
+	
+	   Clasa1() {
+		   System.out.println("constructor");
+		   
+	    }
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+	   public void play() {
+	        System.out.println("Clasa1.play()");
+	    }
+	 
+	   public  String what() {
+		   
+	        return "Clasa1";
+	    }
+	 
+	  
 
 }

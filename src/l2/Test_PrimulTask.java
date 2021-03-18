@@ -6,6 +6,7 @@ public class Test_PrimulTask {
 		// TODO Auto-generated method stub
 		
 		Clasa1 var = new Clasa1();
+		var.play();
 
 		System.out.println("Test");
 		System.out.println("Am facut prima schimbare");
