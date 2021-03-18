@@ -4,6 +4,8 @@ public class Test_PrimulTask {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		Clasa1 var = new Clasa1();
 
 		System.out.println("Test");
 		System.out.println("Am facut prima schimbare");
