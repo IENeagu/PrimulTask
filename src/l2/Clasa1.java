@@ -10,6 +10,8 @@ public class Clasa1 {
 
 	   public void play() {
 	        System.out.println("Clasa1.play()");
+	        System.out.println("Am schimbat ceva aici dupa ce am facut a treia ramura ");
+	        
 	    }
 	 
 	   public  String what() {
